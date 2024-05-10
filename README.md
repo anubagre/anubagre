@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences -
 <ul><a href="https://anubagre.vercel.app/">Portfolio Website</ul>
-<ul><a href="https://drive.google.com/file/d/1yu0R-1QJmlb4lsJj8M6WXGmFEiIXr_r1/view?usp=drive_link">Resume-Link</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
